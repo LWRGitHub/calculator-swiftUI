@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D5290DF255CB3B400BEBFBB /* ActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5290DE255CB3B400BEBFBB /* ActionView.swift */; };
 		8D539C4D255A1493006F1F1A /* calculator_replicaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D539C4C255A1493006F1F1A /* calculator_replicaApp.swift */; };
 		8D539C4F255A1493006F1F1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D539C4E255A1493006F1F1A /* ContentView.swift */; };
 		8D539C51255A1497006F1F1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D539C50255A1497006F1F1A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D5290DE255CB3B400BEBFBB /* ActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionView.swift; sourceTree = "<group>"; };
 		8D539C49255A1493006F1F1A /* calculator-replica.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "calculator-replica.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D539C4C255A1493006F1F1A /* calculator_replicaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculator_replicaApp.swift; sourceTree = "<group>"; };
 		8D539C4E255A1493006F1F1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				8D539C4C255A1493006F1F1A /* calculator_replicaApp.swift */,
 				8D539C4E255A1493006F1F1A /* ContentView.swift */,
+				8D5290DE255CB3B400BEBFBB /* ActionView.swift */,
 				8D539C50255A1497006F1F1A /* Assets.xcassets */,
 				8D539C55255A1497006F1F1A /* Info.plist */,
 				8D539C52255A1497006F1F1A /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D5290DF255CB3B400BEBFBB /* ActionView.swift in Sources */,
 				8D539C4F255A1493006F1F1A /* ContentView.swift in Sources */,
 				8D539C4D255A1493006F1F1A /* calculator_replicaApp.swift in Sources */,
 			);
